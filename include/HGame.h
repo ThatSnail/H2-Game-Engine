@@ -1,6 +1,4 @@
 #pragma once
-#ifndef HGAME_H
-#define HGAME_H
 
 #include <vector>
 #include <queue>
@@ -32,5 +30,3 @@ public:
 
 	static std::vector<Obj*> getObjectList();
 };
-
-#endif
